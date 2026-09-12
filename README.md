@@ -1,12 +1,16 @@
 ## Alexis Cunin
 
-AI Product Manager focused on agent evaluation and reinforcement learning environments.
-I design tasks that measure what an agent can actually do, and the rubrics that score them.
-Product side and technical side: from task definition to the harness that runs it.
+I design evaluation tasks for AI agents and the environments they run in.
 
-### Currently
+Most of my work starts the same way: take a task a human does in a browser, strip it down to something an agent can attempt, decide what counts as success, then find out where the agent actually breaks. The interesting part is almost always the rubric, not the task.
 
-Building browser-agent eval tasks and calibrating their difficulty. Writing small tools, fast, to test task-design hypotheses.
+### Lately
+
+Calibrating browser-agent eval tasks, and writing small tools to test task-design hypotheses faster.
+
+### Background
+
+Product Manager on AI agent systems for enterprise clients before this. Engineering and applied maths at Centrale.
 
 ### Contact
 
